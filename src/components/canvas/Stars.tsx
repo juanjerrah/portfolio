@@ -1,7 +1,7 @@
 import React from 'react'
 
-export default function Stars() {
+export default function StarsCanvas() {
   return (
-    <div>Stars</div>
+    <div>Canvas</div>
   )
 }
